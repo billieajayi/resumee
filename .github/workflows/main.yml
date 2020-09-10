@@ -31,7 +31,7 @@ jobs:
           dockerfile-path: "./Dockerfile"
           debug: true
           fail-build: true
-          include-app-packages: true
+          include-app-packages: false
           acs-report-enable: true
           acs-report-severity-cutoff: Medium
           
