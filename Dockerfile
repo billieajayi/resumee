@@ -1,8 +1,8 @@
-FROM node:12
+FROM node:buster
 
 # Create app directory
 WORKDIR /usr/src/app
-RUN adduser -D billie
+RUN useradd -u 8877 billie
 USER billie
 
 # Install app dependencies
