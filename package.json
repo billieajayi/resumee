@@ -1,0 +1,47 @@
+{
+  "name": "billiecv",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-ga": "^3.1.2",
+    "react-scripts": "3.4.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "- Open the folder in VS Code - Edit <code>public/resumeData.json</code> and add your personal details and projects - Open terminal in VS Code - RUN <code>npm init</code> , this command can be used to set up a new or existing npm package - RUN <code>npm install</code> , this command pulls out all the require node modules - RUN <code>npm run build</code>, this command will create a build folder for you - DRAG AND DROP the BUILD folder on Netlify, your app is live now for the world to see",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billieajayi/resumee.git"
+  },
+  "keywords": [
+    "executiveassistant",
+    "EA",
+    "proactiveea"
+  ],
+  "author": "Billie Ajayi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billieajayi/resumee/issues"
+  },
+  "homepage": "https://github.com/billieajayi/resumee#readme"
+}

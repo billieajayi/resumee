@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Billie Ajayi",
+    "occupation": "Senior Executive Assistant",
+    "description": "Providing the highest administrative support to C-level executives and business owners. #proactiveea",
+    "image": "billie.png",
+    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "billiecjayi@icloud.com",
+    "phone": "+447949144322",
+    "address": {
+      "street": "",
+      "city": "London",
+      "state": "UK",
+      "zip": "SE26 6SX"
+    },
+    "website": "http://supervirtualassistant.xyz",
+    "resumedownload": "http://supervirtualassistant.xyz",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/billie.ajayi2",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/billie-ajayi/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/billie_graced/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/billieajayi",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here is a brief overview of my academic background and skillset",
+    "education": [
+      {
+        "school": "PDA Training LTD",
+        "program": "Business Administration",
+        "graduated": "2001 – 2002",
+        "description": "Successfully completed"
+      }
+    ],
+    "work": [
+      {
+        "company": "Oplex Careers",
+        "title": "Certification in Level 3 Conflict Management and Resolution",
+        "years": "Sep 2019",
+        "description": "Successfully completed."
+      },
+      {
+        "company": "Oplex Careers",
+        "title": "Certification in Level 3 & Level 4 Office Management",
+        "years": "July 2019",
+        "description": "Successfully completed."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Diary Management",
+        "level": "100%"
+      },
+      {
+        "name": "Office Administration",
+        "level": "100%"
+      },
+      {
+        "name": "Team Building",
+        "level": "100%"
+      },
+      {
+        "name": "Event Management",
+        "level": "100%"
+      },
+      {
+        "name": "Cross Functional Leadership",
+        "level": "100%"
+      },
+      {
+        "name": "Problem Solving",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Whilst working with Billie, I found her to be personable and very diligent with a focus on getting the job done. She is determined and has high standards. Her enthusiasm means she is a pleasure to work with and I would be delighted to work with her again.",
+        "user": "Hitesh Dattani"
+      },
+      {
+        "text": "I would recommend Billie very highly.",
+        "user": "Charlie Crole"
+      }
+    ]
+  }
+}
