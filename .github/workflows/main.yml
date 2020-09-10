@@ -27,7 +27,7 @@ jobs:
         uses: anchore/scan-action@v1.0.9
         with:
           image-reference: true
-          dockerfile-path: ./Dockerfile
+          dockerfile-path: ../Dockerfile
           debug: true
           fail-build: false
           include-app-packages: true
