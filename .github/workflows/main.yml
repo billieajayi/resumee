@@ -21,15 +21,23 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+      - run: docker build . --file Dockerfile --tag cvpage:latest
 
       # Runs a single command using the runners shell
       - name: Anchore Container Scan
         uses: anchore/scan-action@v1.0.9
         with:
-          image-reference: true
-          dockerfile-path: ../Dockerfile
+          image-reference: "cvpage:latest"
+          dockerfile-path: "./Dockerfile"
           debug: true
-          fail-build: false
+          fail-build: true
           include-app-packages: true
           acs-report-enable: true
           acs-report-severity-cutoff: Medium
+          
+          
+      - name: Upload artifact
+        uses: actions/upload-artifact@v1.0.0
+        with:
+         name: AnchoreReports
+         path: ./anchore-reports/
