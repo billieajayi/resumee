@@ -4,8 +4,8 @@
     "occupation": "Senior Executive Assistant",
     "description": "Providing the highest administrative support to C-level executives and business owners. #proactiveea",
     "image": "billie.png",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "bio": "I'm a London based Senior Executive Assistant. Providing the highest administrative support to C-level executives and business owners. #proactiveea.",
+    "contactmessage": "Get in touch with me to receive further details, consulting or service related.",
     "email": "billiecjayi@icloud.com",
     "phone": "+447949144322",
     "address": {
@@ -14,8 +14,8 @@
       "state": "UK",
       "zip": "SE26 6SX"
     },
-    "website": "http://supervirtualassistant.xyz",
-    "resumedownload": "http://supervirtualassistant.xyz",
+    "website": "http://proactiveea.co.uk",
+    "resumedownload": "BILLIE-AJAYI_CV.pdf",
     "social": [
       {
         "name": "facebook",
@@ -93,35 +93,12 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
-      },
-      {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "",
+        "category": ")",
+        "image": "",
+        "url": ""
       }
+
     ]
   },
   "testimonials": {
